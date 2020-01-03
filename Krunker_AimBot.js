@@ -2,7 +2,7 @@
 // @name         KRUNKER AIMBOT
 // @namespace    https://krunker.io/
 // @version      1.9.3
-// @description  Zares make for us a ESP hack
+// @description  Zares make for us a better aimbot
 // @author       ZaresPlus X
 // @match        *://krunker.io/*
 // @runAt        document-start
