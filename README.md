@@ -2,6 +2,8 @@
 
 <b>Requirements:</b> • TamperMonkey/ViolentMonkey</br>
 
+**You must see an enemy first to activate hack!!**
+
 **How to use this hack? [Browser Extension]**
 ```diff
 ![1.] Download TamperMonkey or ViolentMonkey extension from Web Store
